@@ -15,6 +15,11 @@ public class Jio implements Network{
 		System.out.println("Jio Data");
 	}
 	
+	public void mms() {
+		System.out.println("Jio mms");
+
+	}
+	
 //	public void jioSms() {
 //		System.out.println("Jio SMS");
 //	}
